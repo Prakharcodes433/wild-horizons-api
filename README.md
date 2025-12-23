@@ -2,6 +2,7 @@
 
 Wild Horizons is a simple, high-performance REST API built with Node.js and Express. It provides data on the world's most iconic and epic landmarks, designed for travel enthusiasts and developers building discovery applications.
 From the ancient beauty of the **Taj Mahal** to the modern majesty of the **Statue of Liberty**, this API helps you explore the world's wonders programmatically.
+
 ---
 ##  Features
 * **Curated Data:** High-quality details on world-famous landmarks.

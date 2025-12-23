@@ -17,6 +17,7 @@ From the ancient beauty of the **Taj Mahal** to the modern majesty of the **Stat
 ##  Installation & Setup
 
 1. **Clone the repository:**
+2. 
    ```bash
    git clone [https://github.com/YOUR_USERNAME/wild-horizons-api.git](https://github.com/YOUR_USERNAME/wild-horizons-api.git)
    cd wild-horizons-api

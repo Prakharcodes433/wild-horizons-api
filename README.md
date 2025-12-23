@@ -10,7 +10,7 @@ From the ancient beauty of the **Taj Mahal** to the modern majesty of the **Stat
 * **Curated Data:** High-quality details on world-famous landmarks.
 * **Fast & Lightweight:** Built on Node.js for rapid response times.
 * **Easy Integration:** Returns clean JSON data ready for any frontend.
-* 
+
 ##  Tech Stack
 * **Runtime:** Node.js
 ##  Installation & Setup

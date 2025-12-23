@@ -14,10 +14,4 @@ From the ancient beauty of the **Taj Mahal** to the modern majesty of the **Stat
 ##  Tech Stack
 
 * **Runtime:** Node.js
-##  Installation & Setup
 
-1.**Clone the repository:**
-
-```bash
-   git clone [https://github.com/YOUR_USERNAME/wild-horizons-api.git](https://github.com/YOUR_USERNAME/wild-horizons-api.git)
-   cd wild-horizons-api

@@ -18,6 +18,7 @@ From the ancient beauty of the **Taj Mahal** to the modern majesty of the **Stat
 
 1. **Clone the repository:**
 2. 
+3. 
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/wild-horizons-api.git](https://github.com/YOUR_USERNAME/wild-horizons-api.git)
+   git clone [https://github.com/prakharcodes433/wild-horizons-api.git](https://github.com/prakharcodes433/wild-horizons-api.git)
    cd wild-horizons-api
